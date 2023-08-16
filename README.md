@@ -21,6 +21,7 @@ Ah flipping 😐
 /aura - Shows the config GUI
 
 /aura help - Shows the help message containing all the subcommands and their usage
+
 /aura toggle - Enables the mod to return a list of suggested items to flip whenever one is found.
 
 
