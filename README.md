@@ -18,9 +18,9 @@ https://github.com/RlMartin12/AuraFlipper/releases/tag/releases
 Ah flipping 😐
 
 ### How to use it?
-/aotf - Shows the config GUI
-/aotf help - Shows the help message containing all the subcommands and their usage
-/aotf toggle - Enables the mod to return a list of suggested items to flip whenever one is found.
+/aura - Shows the config GUI
+/aura help - Shows the help message containing all the subcommands and their usage
+/aura toggle - Enables the mod to return a list of suggested items to flip whenever one is found.
 
 
 ### Is this bannable?
